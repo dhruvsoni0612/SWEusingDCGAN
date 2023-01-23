@@ -2,7 +2,7 @@
 Steganography without Embedding using DCGANs based on the paper "A Novel Image Steganography Method via Deep
 Convolutional Generative Adversarial Networks"(link:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8403208). To my knowledge, this is the first full implementation of this paper.
 
-#Instructions
+# Instructions
 Since code was written in Google Colab, the code has been attached in the form of an ipynb file. 
 For best experience, kindly open it in google colab.(Go to Colab->Open Notebook->Upload->Select ipynb file)
 -------*-------*-------*-------*-------*-------*-------*-------*-------*-------*-------*-------*-------*-------*-------*-----
